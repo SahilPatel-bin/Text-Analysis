@@ -1,5 +1,5 @@
 # Text-Analysis
-Text analysis, also known as text mining or text analytics, refers to the process of extracting meaningful information and insights from textual data.
+Develop a program that performs text analysis to extract meaningful information and actionable insights from textual data.
 
 Task 1. String in lowercase: You want to pre-process the customer feedback by converting all the text to lowercase. This step helps standardize the text. Lower casing the text allows you to focus on the content rather than the specific letter casing.
 
